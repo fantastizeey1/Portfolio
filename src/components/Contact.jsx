@@ -6,7 +6,7 @@ function Contact() {
       <h1 className='py-4 text-4xl font-bold text-center text-[#001b5e]'>
         Contact
       </h1>
-      <form action="https://getform.io/f/nbdeexna" method='POST' encType='multipart/form-data'>
+      <form action="https://getform.io/f/qalpojza" method='POST' encType='multipart/form-data'>
         <div className='grid md:grid-cols gap-4 w-full py-2'>
             <div className='flex flex-col'>
                 <label htmlFor="name" 
