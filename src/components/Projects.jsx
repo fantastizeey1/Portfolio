@@ -5,7 +5,7 @@ import IpaddImg from '../assets/ipaddress-tracker.png'
 import TvseriesImg from '../assets/tv-series.png'
 import SneakersImg from '../assets/sneakers.png'
 import MoviesImg from '../assets/movie-retainer.png'
-import SunnyImg from '../assets/sunnyside.png'
+import SpaceImg from '../assets/space.png'
 
 function Projects() {
 
@@ -38,9 +38,9 @@ function Projects() {
             <ProjectItem img={MoviesImg} title='Movies retainer App' 
             projectLink='https://fantastizeey1.github.io/FANTASTIZEEY-FILMMAKER/'
             sourceCodeLink='https://github.com/fantastizeey1/FANTASTIZEEY-FILMMAKER' />
-            <ProjectItem img={SunnyImg} title='Sunnyside page App' 
-            projectLink='https://fantastizeey1.github.io/sunnyside-landing-page/'
-            sourceCodeLink='https://github.com/fantastizeey1/sunnyside-landing-page' />
+            <ProjectItem img={SpaceImg} title='space-tour page App' 
+            projectLink='https://spacetour-zeey.vercel.app/'
+            sourceCodeLink='https://github.com/fantastizeey1/spacetour' />
         </div>
     </div>
   )
