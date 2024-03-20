@@ -22,7 +22,7 @@ function Projects() {
         <p className='text-center py-8'>
         Welcome to a showcase of my passion and dedication. These projects reflect my journey, where each line of code tells a story. From ideation to execution, these creations embody the essence of my skills and commitment. Dive into the world of my work, and explore the intersection of creativity and technology.
         </p>
-        <div className='grid sm:grid-cols-2 gap-12'>
+        <div className='grid sm:grid-cols-2 gap-16'>
             <ProjectItem img={IpaddImg} title='Ip Address tracker App' 
             projectLink={projectLinkIpAddressTracker} 
             sourceCodeLink={sourceCodeLinkIpAddressTracker}/>

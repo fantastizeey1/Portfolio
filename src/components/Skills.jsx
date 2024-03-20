@@ -69,7 +69,7 @@ function Skills() {
             <p className='flex sm:text-2xl md:text-sm  p-4 tracking-wide text-justify'>
             These are the technology i have worked with. 
             </p>
-            <div className='w-full grid lg:grid-cols-3 grid-cols-2 sm:gap-4 gap-8 text-center py-8 px-12 sm:px-0 '>
+            <div className='w-full grid lg:grid-cols-3 grid-cols-2 gap-8 lg:gap-16 text-center py-8 px-12 sm:px-0 '>
 
                 {
                     skills.map(({id, src, title, style}) => (
