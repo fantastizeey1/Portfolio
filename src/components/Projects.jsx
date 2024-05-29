@@ -8,6 +8,8 @@ import MoviesImg from "../assets/movie-retainer.png";
 import SpaceImg from "../assets/space.png";
 import EasybankImg from "../assets/easybank.png";
 import QuizappImg from "../assets/Quiz app.png";
+import HoobankImg from "../assets/hobobank.png";
+import TravelappImg from "../assets/travelapp.png";
 
 function Projects() {
   const projectLinkIpAddressTracker =
@@ -72,6 +74,18 @@ function Projects() {
           title="Easybank landing Page"
           projectLink="https://eazibanks.netlify.app/"
           sourceCodeLink="https://github.com/fantastizeey1/EazyBank"
+        />
+        <ProjectItem
+          img={HoobankImg}
+          title="HooBank landing Page"
+          projectLink="https://hobobank.netlify.app/"
+          sourceCodeLink="https://github.com/fantastizeey1/Hoobank"
+        />
+        <ProjectItem
+          img={TravelappImg}
+          title="Hilink landing Page"
+          projectLink="https://travelapphome.netlify.app/"
+          sourceCodeLink="https://github.com/fantastizeey1/TravelApp"
         />
       </div>
     </div>
