@@ -10,6 +10,8 @@ import EasybankImg from "../assets/easybank.png";
 import QuizappImg from "../assets/Quiz app.png";
 import HoobankImg from "../assets/hobobank.png";
 import TravelappImg from "../assets/travelapp.png";
+import CryptovilleImg from "../assets/crypoville.png";
+import EcommerceImg from "../assets/ecommerce.png";
 
 function Projects() {
   const projectLinkIpAddressTracker =
@@ -32,6 +34,18 @@ function Projects() {
           title="Ip Address tracker App"
           projectLink={projectLinkIpAddressTracker}
           sourceCodeLink={sourceCodeLinkIpAddressTracker}
+        />
+        <ProjectItem
+          img={CryptovilleImg}
+          title="Cryptoville - A crypto News Forum"
+          projectLink="https://cryptoville.vercel.app/"
+          sourceCodeLink="https://github.com/fantastizeey1/cryptoville"
+        />
+        <ProjectItem
+          img={EcommerceImg}
+          title="A simple E-commerce platform"
+          projectLink="https://shopizeey.vercel.app/"
+          sourceCodeLink="https://github.com/fantastizeey1/ecommerce"
         />
         <ProjectItem
           img={TvseriesImg}
