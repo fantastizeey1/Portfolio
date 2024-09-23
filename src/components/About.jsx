@@ -49,7 +49,7 @@ function About() {
         <p className='flex sm:text-2xl md:text-sm p-4 tracking-wide' >
         Thank you for visiting, and I look forward to connecting with you!
         </p>
-        <a href="https://drive.google.com/file/d/1pehy9taq6SnC6tc3hDokoMYsvhYNuwCR/view?usp=drive_link" className='flex flex-row'>
+        <a href="https://drive.google.com/file/d/1LmZT6g_xfZgIPBSzeo3yWdggxtFFM7nN/view" className='flex flex-row'>
           <button className='flex p-4 border-4 hover:scale-110 duration-300 border-white rounded-lg bg-gray-300 text-black text-2xl ml-0 mt-6 cursor-pointer'>
             <img src={resume} className='w-8' alt="resume" />
             Resumé
