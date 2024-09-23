@@ -10,7 +10,7 @@ import EasybankImg from "../assets/easybank.png";
 import QuizappImg from "../assets/Quiz app.png";
 import HoobankImg from "../assets/hobobank.png";
 import TravelappImg from "../assets/travelapp.png";
-import CryptovilleImg from "../assets/crypoville.png";
+import CryptovilleImg from "../assets/Cryproville.png";
 import EcommerceImg from "../assets/ecommerce.png";
 
 function Projects() {
